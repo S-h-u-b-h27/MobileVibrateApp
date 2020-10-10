@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "380991199891",
+    "firebase_url": "https://fros-e68db.firebaseio.com",
+    "project_id": "fros-e68db",
+    "storage_bucket": "fros-e68db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380991199891:android:27e45b01626519e8decb66",
+        "android_client_info": {
+          "package_name": "com.example.fros"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "380991199891-qqg4ejr8fsogu5fbckg48of1veh6un5m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fros",
+            "certificate_hash": "b44396810989bcf826073c7218d1dac9a24905a2"
+          }
+        },
+        {
+          "client_id": "380991199891-prpb8dpnb3uo9qisls8asm3vlssj1m63.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChiIDxLR3suo7-LCqrZNiQfxgzVt768C0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "380991199891-prpb8dpnb3uo9qisls8asm3vlssj1m63.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
